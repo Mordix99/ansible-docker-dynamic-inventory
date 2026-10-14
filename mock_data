@@ -1,0 +1,8 @@
+mock_data = {
+        "webservers": {
+            "hosts": ["192.168.1.10", "192.168.1.11"]
+        },
+        "databases": {
+            "hosts": ["10.0.0.5"]
+        }
+    }
